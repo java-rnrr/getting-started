@@ -1,7 +1,7 @@
 # getting-started
 <ol>
 <li>Register for Girl Scouts of Greater Los Angeles (GSGLA)</li>
-  ## Registration for girls
+  <ul> **Registration for girls**
     <li> https://gsusa.ebiz.uapps.net/vp/default.aspx?pid=52
     <li> https://www.girlscoutsla.org/en/about-girl-scouts/join.html
   </ul>

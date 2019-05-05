@@ -1,11 +1,11 @@
 # getting-started
 <ol>
 <li>Register for Girl Scouts of Greater Los Angeles (GSGLA)</li>
-  <ul> **Registration for girls**
+  <ul> <strong>Registration for girls<strong/>
     <li> https://gsusa.ebiz.uapps.net/vp/default.aspx?pid=52
     <li> https://www.girlscoutsla.org/en/about-girl-scouts/join.html
   </ul>
-  <ul> Registration for parents and mentors
+    <ul> <strong>Registration for parents and mentors</strong>
     <li> Must have proof that girls and parents are officially registered with Girl Scouts in order to attend meetings, chaperone, and participate in any activity organized by Rock and Roll Robots
     <li> Send copy of registration to parent in charge of forms
     <li> Parents and Mentors: In order to chaperone and participate in the team activities you also have to be registered with Girl Scouts and be background checked by Girl Scouts. 

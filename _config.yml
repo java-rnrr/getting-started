@@ -18,3 +18,5 @@ author:
   github: java-rrnr/getting-started
 
 paginate: 1
+
+theme: jekyll-theme-cayman

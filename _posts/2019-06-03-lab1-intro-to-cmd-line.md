@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lab 1: Introduction to the Command Line"
-description: If you need to configure your computer for use with these labs start here!
+description: Learn the basics of navigating the command line and using VI
 ---
 
 

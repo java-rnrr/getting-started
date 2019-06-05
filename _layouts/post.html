@@ -1,0 +1,19 @@
+{% include header.html %}
+
+<h1>{{ page.title }}</h1>
+
+{% if page.description != "" %}
+<p>{{ page.description }}</p>
+{% endif %}
+
+
+{% if page.zipFile != "" %}
+<br />
+<a href="{{ site.baseurl }}/downloads/{{ page.zipFile }}" class="btn">Download Lab Zip File</a>
+{% endif %}
+
+<hr />
+
+{{ content }}
+
+{% include footer.html %}

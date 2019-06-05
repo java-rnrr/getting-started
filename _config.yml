@@ -1,0 +1,20 @@
+markdown: kramdown
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vagrant", ".vagrant", "Vagrantfile"]
+highlighter: pygments
+
+permalink: /:title
+baseurl: /java-rnrr-tutorials
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title: Java Tutorials
+tagline: Linux, VI, Java Tutorials
+
+author:
+  name:  FTC Robotics
+  email: definitely.real@rocknrollrobots25.com
+  github: java-rrnr/getting-started
+
+paginate: 1

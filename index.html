@@ -1,0 +1,18 @@
+---
+layout: default
+title: Labs
+---
+
+Some nice helpful introduction text should go here. It should be nice and spiffy.
+Someone should get on that.
+
+<br /><hr />
+
+<ul>
+{% for post in site.posts %}
+   <li>
+	<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+	<p>{{ post.description }}</p>
+	</li>
+{% endfor %}
+</ul>

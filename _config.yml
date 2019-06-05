@@ -1,7 +1,7 @@
 markdown: kramdown
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vagrant", ".vagrant", "Vagrantfile"]
-highlighter: pygments
+highlighter: rouge
 
 permalink: /:title
 baseurl: /getting-started

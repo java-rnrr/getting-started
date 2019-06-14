@@ -9,6 +9,7 @@ description: Learn the basics of navigating the command line and using VI
 * [Basics of VI editor](https://github.com/java-rnrr/software/wiki/VI-Editor-Training)
 * Download tkdiff
 * Make a copy of bashrc and edit for your own configuration
+* Copy `gitconfig` to your home directory and edit for your own configuration (name & email)
 
 
 

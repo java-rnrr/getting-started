@@ -1,15 +1,8 @@
 ---
 layout: post
-title: "Lab 0: Setting Up"
+title: "Week 1 Beginner: Setting Up"
 description: If you need to configure your computer for use with these labs start here!
 ---
-
-
-### Prerequisites
-
-* List
-* List
-* List
 
 
 ### Setting Up

@@ -1,8 +1,13 @@
 ---
 layout: post
 title: "Week 1 Beginner: Setting Up"
-description: If you need to configure your computer for use with these labs start here!
+description: If you need to configure your computer for use with FTC start here! 
 ---
+
+### Date: Saturday June 8th, 2019
+* Everyone created GitHub accounts
+* Those with PCs installed git bash
+* Used git to download the repository containing bashrc & bash_profile
 
 
 ### Setting Up

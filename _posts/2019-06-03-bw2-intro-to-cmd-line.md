@@ -11,3 +11,4 @@ description: Learn the basics of navigating the command line and using VI
 * Make a copy of bashrc and edit for your own configuration
 
 
+

@@ -5,6 +5,7 @@ description: If you need to configure your computer for use with FTC start here!
 ---
 
 ### Date: Saturday June 8th, 2019
+* Basic UNIX commands - `cd`, `ls`, `mkdir`
 * Created FIRST directory
 * Everyone created GitHub accounts
 * Those with PCs installed git bash

@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Week 2 Advanced: Review useful git commands"
-description: A reference for the most commonly used functions for git
+title: "Week 2 Advanced: Review Configuration and Program TwoWheelDrive Software"
+description: Before moving on to programming the TwoWheelDrive software, we'll revisit your configuration.
 ---
 
 
-### Prerequisites
+### Planned
 
-* You have a GitHub account
-* You have a current copy of the codebase
-* You have basic command line experience
-
-If the above statements do not apply, go back and review this [git tutorial](insert reference here)
-
-Jezmin has notes for this. Insert them here
+* tkdiff installed and configured in `bashrc` and `.gitconfig`, if not see [instructions](https://github.com/java-rnrr/software/wiki/Getting-Started#how-to-setup-your-bashrc-and-bashrc_profile)
+* Do you have an updated copy of the codebase?
+* Do you remember your git commands?
+* Do you have all the aliases you need in your bashrc?
+* Is your prompt set up to show your git branch name?
+* Do you have Android Studio installed

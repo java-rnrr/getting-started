@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Week 3 Beginner: Introduction to Git"
+title: "Week 3 Beginner/Advanced: Introduction to Git"
 description: Provides a reference to the most commonly used git functions
 ---
 
 
-### Git Workflow
-
-### Cloning a Repository
-
-### Creating a Branch
-
-### Commiting Updates
+### Planned
+* Git overview
+* Git workflow diagram
+* Practice, practice, practice git commands
+* Install Android studio

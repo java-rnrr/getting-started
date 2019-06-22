@@ -9,6 +9,10 @@ description: If you need to configure your computer for use with FTC start here!
   * [Unix cheatsheet 1](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [Unix cheatsheet 2](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html)
   * [Unix cheatsheet 3](https://www.rain.org/~mkummel/unix.html)
+* Basic VI cheatsheets
+  * [VI cheatsheet 1](http://www.lagmonster.org/docs/vi.html)
+  * [VI cheatsheet 2](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
+  * [VI cheatsheet 3](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
 * Created FIRST directory
 * Everyone created GitHub accounts
 * Those with PCs installed git bash

@@ -5,7 +5,7 @@ description: Basics of java programming
 ---
 
 
-### Planned
+### Saturday June 29, 2019
 * Basics of String, int, double, bool
 * String manipulation
 * for loops

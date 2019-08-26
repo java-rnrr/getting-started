@@ -6,6 +6,7 @@ description: Attendance for the software training class
 
 ### Date: Monday August 26th, 2019
 |Student          |7/27/2019|8/17/2019|8/24/2019|
+|     ---         |  :---:  |  :---:  |  :---:  |
 |Alexandra McGowan|    x    |         |         |
 |Alyssa           |    x    |    x    |    x    |
 |Amanda Eisen     |         |         |    x    |

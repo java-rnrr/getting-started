@@ -5,6 +5,21 @@ description: Attendance for the software training class
 ---
 
 ### Date: Monday August 26th, 2019
+<table>
+  <tr>
+    <th>Student</th>
+    <th>7/27/2019</th>
+  </tr>
+  <tr>
+    <td>Alexandra McGowan</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Alyssa Ho</td>
+    <td>x</td>
+  </tr>
+</table>
+
 |Student          |7/27/2019|8/17/2019|8/24/2019|
 |     ---         |  :---:  |  :---:  |  :---:  |
 |Alexandra McGowan|    x    |         |         |

@@ -6,6 +6,7 @@ description: Initial setup of software environment and tools and implementation 
 
 
 ### Saturday September 14, 2019
+* GIT lesson and initial setup
 * Initial setup of terkel, FTC-Team-xx, and SkyStone 
 * Initial setup of Android Studio
 * Four Wheel Drive (Tank Drive) implementation and discussion

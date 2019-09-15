@@ -7,6 +7,5 @@ description: Implementation of Four Wheel Drive Dead Reckon Path
 
 ### Saturday September 21, 2019
 * Build Four Wheel Drive Teleop from last week
-* adb
-* Four Wheel Drive Autonomous Dead Reckon Path
-* [Four Wheel Autonomous Dead Reckon Path](https://github.com/java-rnrr/software/wiki/Four-Wheel-Autonomous-Dead-Reckon-Path)
+* Learn how to use adb to upload your opmode
+* [Four Wheel Drive Autonomous Dead Reckon Path](https://github.com/java-rnrr/software/wiki/Four-Wheel-Autonomous-Dead-Reckon-Path)

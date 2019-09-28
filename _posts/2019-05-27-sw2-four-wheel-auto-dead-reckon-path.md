@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Week 2 Season: Four Wheel Dead Reckon Path"
-description: Implementation of Four Wheel Drive Dead Reckon Path
+title: "Week 2 Season: Four Wheel Autonomous Dead Reckon Path"
+description: Implementation of Four Wheel Autonomous Dead Reckon Path
 ---
 
 

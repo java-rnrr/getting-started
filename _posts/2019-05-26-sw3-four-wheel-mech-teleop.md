@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Week 3 Season: Four Wheel Geared Mecanum Drive Teleop"
-description: implementation of Four Wheel Mecanum Drive Teleopsoftware
+title: "Week 3 Season: Four Wheel Mecanum Drive Teleop"
+description: implementation of Four Wheel Mecanum Drive Teleop software
 ---
 
 
